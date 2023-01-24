@@ -20,7 +20,7 @@
 
 
    
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and working fullstack on building web applications.
 
 - :seedling: Exploring Cloud Computing.
 
